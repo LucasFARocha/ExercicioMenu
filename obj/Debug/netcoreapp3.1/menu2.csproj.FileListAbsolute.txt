@@ -1,0 +1,27 @@
+C:\Users\lucas\source\repos\menu2\bin\Debug\netcoreapp3.1\menu2.exe
+C:\Users\lucas\source\repos\menu2\bin\Debug\netcoreapp3.1\menu2.deps.json
+C:\Users\lucas\source\repos\menu2\bin\Debug\netcoreapp3.1\menu2.runtimeconfig.json
+C:\Users\lucas\source\repos\menu2\bin\Debug\netcoreapp3.1\menu2.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\menu2\bin\Debug\netcoreapp3.1\menu2.dll
+C:\Users\lucas\source\repos\menu2\bin\Debug\netcoreapp3.1\menu2.pdb
+C:\Users\lucas\source\repos\menu2\obj\Debug\netcoreapp3.1\menu2.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\menu2\obj\Debug\netcoreapp3.1\menu2.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\menu2\obj\Debug\netcoreapp3.1\menu2.AssemblyInfo.cs
+C:\Users\lucas\source\repos\menu2\obj\Debug\netcoreapp3.1\menu2.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\menu2\obj\Debug\netcoreapp3.1\menu2.dll
+C:\Users\lucas\source\repos\menu2\obj\Debug\netcoreapp3.1\menu2.pdb
+C:\Users\lucas\source\repos\menu2\obj\Debug\netcoreapp3.1\menu2.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Documentos\A_EtecFatec\1º DS Fatec\TPA\menu2\bin\Debug\netcoreapp3.1\menu2.exe
+C:\Users\lucas\OneDrive\Documentos\A_EtecFatec\1º DS Fatec\TPA\menu2\bin\Debug\netcoreapp3.1\menu2.deps.json
+C:\Users\lucas\OneDrive\Documentos\A_EtecFatec\1º DS Fatec\TPA\menu2\bin\Debug\netcoreapp3.1\menu2.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documentos\A_EtecFatec\1º DS Fatec\TPA\menu2\bin\Debug\netcoreapp3.1\menu2.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documentos\A_EtecFatec\1º DS Fatec\TPA\menu2\bin\Debug\netcoreapp3.1\menu2.dll
+C:\Users\lucas\OneDrive\Documentos\A_EtecFatec\1º DS Fatec\TPA\menu2\bin\Debug\netcoreapp3.1\menu2.pdb
+C:\Users\lucas\OneDrive\Documentos\A_EtecFatec\1º DS Fatec\TPA\menu2\obj\Debug\netcoreapp3.1\menu2.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documentos\A_EtecFatec\1º DS Fatec\TPA\menu2\obj\Debug\netcoreapp3.1\menu2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documentos\A_EtecFatec\1º DS Fatec\TPA\menu2\obj\Debug\netcoreapp3.1\menu2.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\A_EtecFatec\1º DS Fatec\TPA\menu2\obj\Debug\netcoreapp3.1\menu2.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\A_EtecFatec\1º DS Fatec\TPA\menu2\obj\Debug\netcoreapp3.1\menu2.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\A_EtecFatec\1º DS Fatec\TPA\menu2\obj\Debug\netcoreapp3.1\menu2.dll
+C:\Users\lucas\OneDrive\Documentos\A_EtecFatec\1º DS Fatec\TPA\menu2\obj\Debug\netcoreapp3.1\menu2.pdb
+C:\Users\lucas\OneDrive\Documentos\A_EtecFatec\1º DS Fatec\TPA\menu2\obj\Debug\netcoreapp3.1\menu2.genruntimeconfig.cache
